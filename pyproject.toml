@@ -10,7 +10,7 @@ authors = [
 ]
 description = "A module for creating and using a shared mutex on Windows."
 readme = "README.md"
-requires-python = ">=3.9"
+requires-python = ">=3.8"
 dependencies = [
     "pywin32"
 ]
